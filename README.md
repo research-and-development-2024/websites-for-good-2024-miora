@@ -21,6 +21,4 @@ Web page implementations for MiOra's Healthcare Projects
 
 [Link to Team Undergraduate 6's Page Implementation](https://research-and-development-2024.github.io/websites-for-good-miora/usix/index.html)
 
-## Team Graduate 1
-- Ryuichi Matsushita 
 
