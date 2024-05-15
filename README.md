@@ -19,7 +19,7 @@ Web page implementations for MiOra's Healthcare Projects
 - Manuela Sahagun msahagu8@calstatela.edu
 - Christian Simental csiment4@calstatela.edu
 
-[Link to Team Undergraduate 2's Page Implementation](./usix/index.html)
+[Link to Team Undergraduate 2's Page Implementation](https://research-and-development-2024.github.io/websites-for-good-miora/usix/index.html)
 
 ## Team Graduate 1
 - Ryuichi Matsushita 
