@@ -8,3 +8,9 @@ Web page implementations for MiOra's Healthcare Projects
 
 [Link to Team Graduate 6's Page Implementation](https://research-and-development-2024.github.io/websites-for-good-miora/gsix/index.html)
 
+## Team Undergraduate 2
+- Harmonie Nhan hnhan@calstatela.edu
+- Jonathan Marias jmarias@calstatela.edu
+
+[Link to Team Undergraduate 2's Page Implementation](https://research-and-development-2024.github.io/websites-for-good-miora/utwo/index.html)
+
