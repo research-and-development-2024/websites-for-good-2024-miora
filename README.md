@@ -1,6 +1,8 @@
 # Websites for Good: MiOra
 Web page implementations for MiOra's Healthcare Projects
 
+[Link to mockups](https://research-and-development-2024.github.io/websites-for-good-miora/Mockups.pdf)
+
 ## Team Graduate 6
 - Ayushi Porwal aporwal@calstatela.edu
 - Snehil Sarkar ssarkar4@calstatela.edu
