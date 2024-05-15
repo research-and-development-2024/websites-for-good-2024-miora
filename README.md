@@ -14,7 +14,7 @@ Web page implementations for MiOra's Healthcare Projects
 - Harmonie Nhan hnhan@calstatela.edu
 - Jonathan Marias jmarias@calstatela.edu
 
-[Link to Team Undergraduate 2's Page Implementation](https://research-and-development-2024.github.io/websites-for-2024-good-miora/utwo/index.html)
+[Link to Team Undergraduate 2's Page Implementation](https://research-and-development-2024.github.io/websites-for-good-2024-miora/utwo/index.html)
 
 ## Team Undergraduate 6
 - Aneth Morales amoral243@calstatela.edu
