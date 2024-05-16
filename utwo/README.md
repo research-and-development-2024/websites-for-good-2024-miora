@@ -1,4 +1,4 @@
-# Websites for Good: MiOra
+# MiOra's Healthcare Projects
 
 ## Team Undergraduate 2
 - Harmonie Nhan hnhan@calstatela.edu
